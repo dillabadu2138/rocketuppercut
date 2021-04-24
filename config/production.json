@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dillabadu2138:cjsso9484@devconnector.mubyo.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "secretKey": "shhhhh"
+}
